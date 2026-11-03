@@ -56,7 +56,7 @@ On January 1, 2009, the site's administrator and registered owner moved from Hir
 > [!note]
 > Further down this same article gives the date of the transfer as **January 2**, 2009. [[History of 2channel]] and [[Hiroyuki Nishimura]] also say January 2.
 
-In February 2014, for reasons that are not made clear, the effective administrative authority over 2channel passed to Jim Watkins) (hereafter "Jim"), who became its effective administrator. [^16] "Hiroyuki" opposed this and opened a new "**[[2ch.sc - split from 2channel|2channel (2ch.sc)]]**".
+In February 2014, for reasons that are not made clear, the effective administrative authority over 2channel passed to Jim Watkins (hereafter "Jim"), who became its effective administrator. [^16] "Hiroyuki" opposed this and opened a new "**[[2ch.sc - split from 2channel|2channel (2ch.sc)]]**".
 
 Below, 2channel from before the transfer of administrative authority is referred to as "**2channel (2ch.net)**" where the distinction is needed.
 
