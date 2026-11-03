@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f45cda5f71d5f139",
+        "id": "76214e4c6e035ec3",
         "type": "tabs",
         "children": [
           {
-            "id": "ffed5ed0b773a250",
+            "id": "30ff85bd57a546d0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5,
-    "collapsed": true
+    "width": 344.5
   },
   "right": {
     "id": "1facddd73c1ee948",
@@ -194,11 +193,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ffed5ed0b773a250",
+  "active": "30ff85bd57a546d0",
   "lastOpenFiles": [
+    "00 Hubs/Futaba Channel Hub.md",
+    "00 Hubs/Kasane Teto Hub.md",
+    "00 Hubs/Niconico Hub.md",
+    "00 Hubs/Vault Index.base",
     "Clippings/教科書には載らないニッポンのインターネットの歴史 Encyclopedia of Japanese Internet Culture.md",
-    "01 Pre-Ayashii/Wikipedia/NIFTY-Serve.md",
     "Clippings/ニフティサーブ.md",
+    "Wikipedia.md",
+    "01 Pre-Ayashii/Wikipedia/NIFTY-Serve.md",
     "03 2chan/Japanese (Translated)/Wikipedia/sed7cAVtP",
     "01 Pre-Ayashii/Wikipedia/NIFTY-Serve.md.tmp.20948.552da65934b9",
     "01 Pre-Ayashii/Wikipedia",
@@ -228,10 +232,6 @@
     "03 2chan/Japanese (Translated)/Nicopedia/nanJ Board.md",
     "03 2chan/Japanese (Translated)/Nicopedia/News Flash Board (Nicopedia).md",
     "03 2chan/Japanese (Translated)/Nicopedia/News Flash Board VIP.md",
-    "03 2chan/Japanese (Translated)/Wikipedia/2ch.sc - split from 2channel.md",
-    "03 2chan/Japanese (Translated)/Wikipedia/2channel (2ch.net).md",
-    "03 2chan/Japanese (Translated)/Wikipedia/Futaba Channel.md",
-    "03 2chan/Japanese (Translated)/Wikipedia/5channel.md",
     "03 2chan/Chan map.jpg"
   ]
 }
