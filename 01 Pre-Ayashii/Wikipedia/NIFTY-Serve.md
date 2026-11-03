@@ -27,13 +27,10 @@ topics:
 ---
 # NIFTY-Serve
 
-> [!note]
-> This is a translation of the Japanese Wikipedia article *ニフティサーブ*. The notes in boxes like this one are additions by the translator and are not part of the original text. Where the article links to another Wikipedia page, I have linked to the matching note in this vault, and left plain text where there is none. The article's own notes and sources are kept at the bottom. Dates and "current" statements are those of the captured article.
-
 **NIFTY-Serve** (ニフティサーブ, later **NIFTY SERVE**) was a PC-communications service run by Nifty Corporation from 1987 to 2006.
 
 > [!note]
-> *PC communications* (パソコン通信, *pasokon tsūshin*, often *pasotsū*) means the closed dial-up services of the modem era, where members dialled into one company's host computer, as opposed to the decentralised Internet. [[The Internet - Nicopedia]] and [[Internet Old-Timers' Club - My First JUNET]] explain the difference. NIFTY-Serve matters to this vault because [[Ayashii World Hub|Ayashii World]] began on its Home Party service in 1995, after Shiba had run a Patio there (see [[#Patio (PATIO)]], [[#Home Party (HP)]] and [[#Ayashii World]] below). The note on NIFTY in [[History of Ayashii World - Part 1]] is a short summary of this article.
+> *PC communications* (パソコン通信, *pasokon tsūshin*, often *pasotsū*) means the closed dial-up services of the modem era, where members dialled into one company's host computer, as opposed to the decentralised Internet. [[The Internet - Nicopedia]] and [[Internet Old-Timers' Club - My First JUNET]] explain the difference. NIFTY-Serve matters to this vault because [[Ayashii World Hub|Ayashii World]] began on its Home Party service in 1995, after Shiba had run a Patio there (see [[#Patio (PATIO)]], [[#Home Party (HP)]] and [[#Ayashii World]] below). 
 
 ## History
 

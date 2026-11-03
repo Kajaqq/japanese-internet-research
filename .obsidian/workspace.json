@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/ニフティサーブ.md",
-                "mode": "source",
+                "file": "01 Pre-Ayashii/Wikipedia/NIFTY-Serve.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ニフティサーブ"
+              "title": "NIFTY-Serve"
             }
           }
         ]
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 344.5,
+    "collapsed": true
   },
   "right": {
     "id": "1facddd73c1ee948",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clippings/ニフティサーブ.md",
+                "file": "01 Pre-Ayashii/Wikipedia/NIFTY-Serve.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -170,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/ニフティサーブ.md",
+                "file": "01 Pre-Ayashii/Wikipedia/NIFTY-Serve.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -211,12 +212,12 @@
   },
   "active": "3487a1d6bdd7f434",
   "lastOpenFiles": [
+    "Clippings/ニフティサーブ.md",
     "03 2chan/Japanese (Translated)/Wikipedia/sed7cAVtP",
     "01 Pre-Ayashii/Wikipedia/NIFTY-Serve.md",
     "01 Pre-Ayashii/Wikipedia/NIFTY-Serve.md.tmp.20948.552da65934b9",
     "01 Pre-Ayashii/Wikipedia",
     "02 Ayashii World/History of Ayashii World - Part 1.md",
-    "Clippings/ニフティサーブ.md",
     "Clippings",
     "01 Pre-Ayashii/Blog Posts/A History of Japanese Internet Culture and Incidents, As I Saw It (1969–2018).md",
     "01 Pre-Ayashii/Blog Posts/Internet Old-Timers' Club - My First JUNET.md",
