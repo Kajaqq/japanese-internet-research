@@ -11,10 +11,24 @@
             "id": "30ff85bd57a546d0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01 Pre-Ayashii/Wikipedia/NIFTY-Serve.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "NIFTY-Serve"
             }
           }
         ]
@@ -75,11 +89,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 344.5,
+    "collapsed": true
   },
   "right": {
     "id": "1facddd73c1ee948",
@@ -195,11 +211,14 @@
   },
   "active": "30ff85bd57a546d0",
   "lastOpenFiles": [
+    "01 Pre-Ayashii/The History of the Japanese Internet You Won't Find in Textbooks (English).md",
+    "Clippings/YT3kfLKZ",
+    "Clippings/MecjwOlv",
     "00 Hubs/Futaba Channel Hub.md",
     "00 Hubs/Kasane Teto Hub.md",
     "00 Hubs/Niconico Hub.md",
     "00 Hubs/Vault Index.base",
-    "Clippings/教科書には載らないニッポンのインターネットの歴史 Encyclopedia of Japanese Internet Culture.md",
+    "06 Clippings/教科書には載らないニッポンのインターネットの歴史 Encyclopedia of Japanese Internet Culture.md",
     "Clippings/ニフティサーブ.md",
     "Wikipedia.md",
     "01 Pre-Ayashii/Wikipedia/NIFTY-Serve.md",
@@ -221,17 +240,13 @@
     "04 NicoNicoDouga/News Articles/Niwango Strangely Left Out of the 'Miku Miku ni Shite Ageru' JASRAC Registration Affair.md",
     "04 NicoNicoDouga/News Articles/What Is Dwango Starting with Hiroyuki.md",
     "04 NicoNicoDouga/Other",
-    "03 2chan/Japanese (Translated)/Other",
     "03 2chan/Japanese (Translated)/Other/Nico Nico Douga and 2channel (Part 1-1) - The Roots of Nico Users in the (Kari) Era.md",
     "04 NicoNicoDouga/Other/Nico Nico Douga (motoso Scrapbox).md",
-    "04 NicoNicoDouga/News Articles",
     "03 2chan/Japanese (Translated)/History of 2channel (Monapedia).md",
     "03 2chan/English/2ch Chronicles/2ch History Timeline.md",
     "03 2chan/Japanese (Translated)/Nicopedia/History of 2channel.md",
     "03 2chan/Japanese (Translated)/Nicopedia/Hiroyuki Nishimura.md",
     "03 2chan/Japanese (Translated)/Nicopedia/nanJ Board.md",
-    "03 2chan/Japanese (Translated)/Nicopedia/News Flash Board (Nicopedia).md",
-    "03 2chan/Japanese (Translated)/Nicopedia/News Flash Board VIP.md",
     "03 2chan/Chan map.jpg"
   ]
 }
