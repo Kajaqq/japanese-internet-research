@@ -37,7 +37,7 @@ Part of: [[!Home]] · Before: [[2channel Hub|2channel]] · Culture: [[Kasane Tet
 ## Culture & related wikis
 - [[im@s MAD]] — Idolmaster MAD videos
 - [[pixipedia]] — Pixiv Encyclopedia
-- [[The Internet]] — Nicopedia's "The Internet" article
+- [[The Internet - Nicopedia]] — Nicopedia's "The Internet" article
 
 ## Other Sources
 - [[2ch-niconico-Relation]] — AI-generated overview of the NicoNico and 2chan relation

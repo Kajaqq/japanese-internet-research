@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "33f7ecf4f3feb126",
+        "id": "479e83bb25c0c984",
         "type": "tabs",
         "children": [
           {
-            "id": "418797b9eddbfed1",
+            "id": "24347f056d904d3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Pre-Ayashii/Internet Old-Timers' Club - My First JUNET.md",
-                "mode": "preview",
+                "file": "01 Pre-Ayashii/Blog Posts/What Was the Akihabara Frenzy at the Windows 95 Launch Really About.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Internet Old-Timers' Club - My First JUNET"
+              "title": "What Was the Akihabara Frenzy at the Windows 95 Launch Really About"
             }
           }
         ]
@@ -127,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01 Pre-Ayashii/Blog Posts/What Was the Akihabara Frenzy at the Windows 95 Launch Really About.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -169,6 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01 Pre-Ayashii/Blog Posts/What Was the Akihabara Frenzy at the Windows 95 Launch Really About.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,11 +190,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,10 +211,12 @@
   },
   "active": "779794644b2cb78d",
   "lastOpenFiles": [
-    "01 Pre-Ayashii/The Internet.md",
-    "01 Pre-Ayashii/What Was the Akihabara Frenzy at the Windows 95 Launch Really About.md",
-    "01 Pre-Ayashii/Internet Old-Timers' Club - My First JUNET.md",
-    "01 Pre-Ayashii/A History of Japanese Internet Culture and Incidents, As I Saw It (1969–2018).md",
+    "01 Pre-Ayashii/Blog Posts",
+    "01 Pre-Ayashii/Blog Posts/A History of Japanese Internet Culture and Incidents, As I Saw It (1969–2018).md",
+    "01 Pre-Ayashii/The Internet - Nicopedia.md",
+    "Untitled.canvas",
+    "01 Pre-Ayashii/Blog Posts/Internet Old-Timers' Club - My First JUNET.md",
+    "01 Pre-Ayashii/Blog Posts/What Was the Akihabara Frenzy at the Windows 95 Launch Really About.md",
     "01 Pre-Ayashii",
     "Outline prezentacji.md",
     "04 NicoNicoDouga/News Articles/Hiroyuki Becomes 'Director-Administrator' of Dwango's New Company.md",
@@ -237,7 +242,6 @@
     "04 NicoNicoDouga/Wikipedia/NicoNico - JP Wiki.md",
     "2ch.net (JP Wiki).md",
     "02 Ayashii World/Wikipedia/Ayashii World.md",
-    "03 2chan/Various Links.md",
     "03 2chan/Chan map.jpg"
   ]
 }
