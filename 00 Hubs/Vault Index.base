@@ -1,0 +1,95 @@
+filters:
+  and:
+    - file.ext == "md"
+properties:
+  note.type:
+    displayName: Type
+  note.language:
+    displayName: Lang
+  note.source_site:
+    displayName: Site
+  note.topics:
+    displayName: Topics
+  note.source:
+    displayName: Source URL
+  file.folder:
+    displayName: Folder
+views:
+  - type: table
+    name: All sources
+    filters:
+      and:
+        - type != "hub"
+    groupBy:
+      property: type
+      direction: ASC
+    order:
+      - file.name
+      - language
+      - source_site
+      - topics
+      - file.folder
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: AI summaries (verify)
+    filters:
+      and:
+        - type == "ai-summary"
+    order:
+      - file.name
+      - topics
+      - file.mtime
+  - type: table
+    name: Translations (JP to EN)
+    filters:
+      and:
+        - type == "translation"
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - aliases
+      - topics
+      - source
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Saved web pages
+    filters:
+      and:
+        - type == "clipping"
+    groupBy:
+      property: language
+      direction: ASC
+    order:
+      - file.name
+      - source_site
+      - topics
+      - source
+    sort:
+      - property: source_site
+        direction: ASC
+  - type: table
+    name: Missing source URL
+    filters:
+      and:
+        - type != "hub"
+        - type != "link-list"
+        - type != "ai-summary"
+        - source.isEmpty()
+    order:
+      - file.name
+      - type
+      - file.folder
+  - type: table
+    name: Hubs
+    filters:
+      and:
+        - type == "hub"
+    order:
+      - file.name
+      - aliases

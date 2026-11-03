@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "feb1087a58d1291c",
+    "type": "split",
+    "children": [
+      {
+        "id": "33f7ecf4f3feb126",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "418797b9eddbfed1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Pre-Ayashii/Internet Old-Timers' Club - My First JUNET.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Internet Old-Timers' Club - My First JUNET"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5c6f1fb3d72e90d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c486d8943467291c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "779794644b2cb78d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6d1c6a025a52c510",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "920683eb6c19fbe2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 344.5
+  },
+  "right": {
+    "id": "1facddd73c1ee948",
+    "type": "split",
+    "children": [
+      {
+        "id": "d49a064dad5fcb00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54bdda7beede05f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "73d3ad495cae8d9a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d3c22d5e4acbed63",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dc5e970de706caab",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "46c3571ab87adc6c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "1ddce44e45d2ae85",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "779794644b2cb78d",
+  "lastOpenFiles": [
+    "01 Pre-Ayashii/The Internet.md",
+    "01 Pre-Ayashii/What Was the Akihabara Frenzy at the Windows 95 Launch Really About.md",
+    "01 Pre-Ayashii/Internet Old-Timers' Club - My First JUNET.md",
+    "01 Pre-Ayashii/A History of Japanese Internet Culture and Incidents, As I Saw It (1969–2018).md",
+    "01 Pre-Ayashii",
+    "Outline prezentacji.md",
+    "04 NicoNicoDouga/News Articles/Hiroyuki Becomes 'Director-Administrator' of Dwango's New Company.md",
+    "04 NicoNicoDouga/News Articles/Kawakami Nobuo Looks Back on Ten Years of Nico Nico Douga.md",
+    "04 NicoNicoDouga/News Articles/Niwango Strangely Left Out of the 'Miku Miku ni Shite Ageru' JASRAC Registration Affair.md",
+    "04 NicoNicoDouga/News Articles/What Is Dwango Starting with Hiroyuki.md",
+    "04 NicoNicoDouga/Other",
+    "03 2chan/Japanese (Translated)/Other",
+    "03 2chan/Japanese (Translated)/Other/Nico Nico Douga and 2channel (Part 1-1) - The Roots of Nico Users in the (Kari) Era.md",
+    "04 NicoNicoDouga/Other/Nico Nico Douga (motoso Scrapbox).md",
+    "04 NicoNicoDouga/News Articles",
+    "03 2chan/Japanese (Translated)/History of 2channel (Monapedia).md",
+    "03 2chan/English/2ch Chronicles/2ch History Timeline.md",
+    "03 2chan/Japanese (Translated)/Nicopedia/History of 2channel.md",
+    "03 2chan/Japanese (Translated)/Nicopedia/Hiroyuki Nishimura.md",
+    "03 2chan/Japanese (Translated)/Nicopedia/nanJ Board.md",
+    "03 2chan/Japanese (Translated)/Nicopedia/News Flash Board (Nicopedia).md",
+    "03 2chan/Japanese (Translated)/Nicopedia/News Flash Board VIP.md",
+    "03 2chan/Japanese (Translated)/Wikipedia/2ch.sc - split from 2channel.md",
+    "03 2chan/Japanese (Translated)/Wikipedia/2channel (2ch.net).md",
+    "03 2chan/Japanese (Translated)/Wikipedia/Futaba Channel.md",
+    "03 2chan/Japanese (Translated)/Wikipedia/5channel.md",
+    "04 NicoNicoDouga/Wikipedia/NicoNico - JP Wiki.md",
+    "2ch.net (JP Wiki).md",
+    "02 Ayashii World/Wikipedia/Ayashii World.md",
+    "03 2chan/Various Links.md",
+    "03 2chan/Chan map.jpg"
+  ]
+}
