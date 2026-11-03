@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "479e83bb25c0c984",
+        "id": "e7810b667655c04a",
         "type": "tabs",
         "children": [
           {
-            "id": "24347f056d904d3e",
+            "id": "3487a1d6bdd7f434",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Pre-Ayashii/Blog Posts/What Was the Akihabara Frenzy at the Windows 95 Launch Really About.md",
+                "file": "Clippings/ニフティサーブ.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "What Was the Akihabara Frenzy at the Windows 95 Launch Really About"
+              "title": "ニフティサーブ"
             }
           }
         ]
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Pre-Ayashii/Blog Posts/What Was the Akihabara Frenzy at the Windows 95 Launch Really About.md",
+                "file": "Clippings/ニフティサーブ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Pre-Ayashii/Blog Posts/What Was the Akihabara Frenzy at the Windows 95 Launch Really About.md",
+                "file": "Clippings/ニフティサーブ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -209,14 +209,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "779794644b2cb78d",
+  "active": "3487a1d6bdd7f434",
   "lastOpenFiles": [
-    "01 Pre-Ayashii/Blog Posts",
+    "02 Ayashii World/History of Ayashii World - Part 1.md",
+    "Clippings/ニフティサーブ.md",
+    "Clippings",
     "01 Pre-Ayashii/Blog Posts/A History of Japanese Internet Culture and Incidents, As I Saw It (1969–2018).md",
-    "01 Pre-Ayashii/The Internet - Nicopedia.md",
-    "Untitled.canvas",
     "01 Pre-Ayashii/Blog Posts/Internet Old-Timers' Club - My First JUNET.md",
+    "01 Pre-Ayashii/The Internet - Nicopedia.md",
     "01 Pre-Ayashii/Blog Posts/What Was the Akihabara Frenzy at the Windows 95 Launch Really About.md",
+    "01 Pre-Ayashii/Blog Posts",
+    "Untitled.canvas",
     "01 Pre-Ayashii",
     "Outline prezentacji.md",
     "04 NicoNicoDouga/News Articles/Hiroyuki Becomes 'Director-Administrator' of Dwango's New Company.md",
@@ -241,7 +244,6 @@
     "03 2chan/Japanese (Translated)/Wikipedia/5channel.md",
     "04 NicoNicoDouga/Wikipedia/NicoNico - JP Wiki.md",
     "2ch.net (JP Wiki).md",
-    "02 Ayashii World/Wikipedia/Ayashii World.md",
     "03 2chan/Chan map.jpg"
   ]
 }
