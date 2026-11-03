@@ -20,20 +20,20 @@ This is an English translation of [Ayashii World no Rekishi](http://f16.aaacafe.
 
 **1995.03.20**
 
-The so-called [Tokyo subway sarin attack](https://en.wikipedia.org/wiki/Tokyo_subway_sarin_attack)  committed by [Aum Shinrikyo](https://en.wikipedia.org/wiki/Aleph_\(Japanese_cult\)) occurs.
+The so-called Tokyo subway sarin attack committed by Aum Shinrikyo occurs.
 
 **1995.04**
 
-Shiba (しば) establishes a music-oriented [PATIO](https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%95%E3%83%86%E3%82%A3%E3%82%B5%E3%83%BC%E3%83%96#%E3%83%91%E3%83%86%E3%82%A3%E3%82%AA%EF%BC%88PATIO%EF%BC%89) (a forum-like service provided by [NIFTY-Serve](https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%95%E3%83%86%E3%82%A3%E3%82%B5%E3%83%BC%E3%83%96)) named *musicaholic*, which covers his personal music interests (UK Rock, Techno).
+Shiba (しば) establishes a music-oriented PATIO (a forum-like service provided by [[NIFTY-Serve]] named *musicaholic*, which covers his personal music interests (UK Rock, Techno).
 
 **1995 Summer-Autumn**
 
-Shiba is impressed by *Kasumigaseki* (霞ヶ関), a game based on the Tokyo subway sarin attack and a pioneer in the genre of [Fukinshin games](https://ja.wikipedia.org/wiki/%E4%B8%8D%E8%AC%B9%E6%85%8E%E3%82%B2%E3%83%BC%E3%83%A0) (不謹慎ゲーム; unscrupulous games), and he starts a [NIFTY Home Party](https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%95%E3%83%86%E3%82%A3%E3%82%B5%E3%83%BC%E3%83%96#%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%EF%BC%88HP%EF%BC%89) (a simple anonymous [BBS](https://en.wikipedia.org/wiki/Bulletin_board_system) service) named *Ayashii World* (あやしいワールド; Strange World). It closes soon afterwards.
+Shiba is impressed by *Kasumigaseki* (霞ヶ関), a game based on the Tokyo subway sarin attack and a pioneer in the genre of *Unscrupulous games*  (不謹慎ゲーム), and he starts a [[NIFTY-Serve|NIFTY Home Party]] (a simple anonymous BBS service) named *Ayashii World* (あやしいワールド; Strange World). It closes soon afterwards.
 
-After a brief period of inactivity, and as the drastic shift from the earlier forms of [PC communications](https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E9%80%9A%E4%BF%A1) (パソコン通信; pasocon tsushin) to the Internet occurs, Shiba begins to look at the possibilities that lie in pedophilic images. He wonders if pedophilic images, which are strictly regulated in other countries, could be an [underground culture](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B0%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89_\(%E6%96%87%E5%8C%96\)#%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88) that is unique to Japan.
+After a brief period of inactivity, and as the drastic shift from the earlier forms of Pasokon Tsūshin to the Internet occurs, Shiba begins to look at the possibilities that lie in pedophilic images. He wonders if pedophilic images, which are strictly regulated in other countries, could be an underground culture that is unique to Japan.
 
 > [!note]
-> "Nifty-Serve" one of the online service (パソコン通信, Pasokon Tsushin) provider. The Nifty-Serve had provided since 1987 to 2006 officially. The service was not exactly same as the Internet because they provide their own servers, and users access to the servers. Around 1995, Nifty-Serve was the biggest provider at the time and had a million of users. See also: [パソコン通信](http://ja.wikipedia.org/wiki/%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E9%80%9A%E4%BF%A1)
+> "Nifty-Serve" one of the online service (パソコン通信, Pasokon Tsūshin) provider. The Nifty-Serve had provided since 1987 to 2006 officially. The service was not exactly same as the Internet because they provide their own servers, and users access to the servers. Around 1995, Nifty-Serve was the biggest provider at the time and had a million of users. See also: [Pasokon Tsūshin(JP Wikipedia)](http://ja.wikipedia.org/wiki/%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E9%80%9A%E4%BF%A1)
 >
 > "Home Party" is like BBS script. The function was only UserID, Title, and 20 line sentence limits. It is very primitive, isn't it?
 >
@@ -41,10 +41,10 @@ After a brief period of inactivity, and as the drastic shift from the earlier fo
 
 **1995.08.15**
 
-[Kowloon Kurosawa](https://en.wikipedia.org/wiki/Kowloon_Kurosawa) (クーロン黒沢) launches the [grassroots BBS](https://ja.wikipedia.org/wiki/%E8%8D%89%E3%81%AE%E6%A0%B9BBS) *Tokyo Isoternet* (東京イソターネット). Later, he starts *Kokuchi-kun* (告知君; Notice-kun), a BBS where the content is called *Kaibunshou Hozonkan* (怪文書保存館; The Archive of Anonymous Defamation Documents). This would have a great influence on future log archival sites.
+[Kowloon Kurosawa](https://en.wikipedia.org/wiki/Kowloon_Kurosawa) launches the [grassroots BBS](https://ja.wikipedia.org/wiki/%E8%8D%89%E3%81%AE%E6%A0%B9BBS) *Tokyo Isoternet* (東京イソターネット). Later, he starts *Kokuchi-kun* (告知君; Notice-kun), a BBS where the content is called *Kaibunshou Hozonkan* (怪文書保存館; The Archive of Anonymous Defamation Documents). This would have a great influence on future log archival sites.
 
 > [!note]
-> "Kusanone BBS" unlike Pasokon-Tsushin, it is free BBS system. Nifty-Serve or the providers charged to users monthly fee to connect the server, but Kusanone BBS is free, which means costed only phone bill.
+> "Kusanone BBS" unlike Pasokon-Tsushin, is a free BBS system. Nifty-Serve or the providers charged users a fee to connect the server, but Kusanone BBS is free, which means costed only phone bill.
 >
 > "log preservation website" can be recently found a lot of 2ch log websites. [2ちゃんねる系ブログ](http://ja.wikipedia.org/wiki/2%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%8B%E7%B3%BB%E3%83%96%E3%83%AD%E3%82%B0)
 >
@@ -56,10 +56,10 @@ After a brief period of inactivity, and as the drastic shift from the earlier fo
 
 Aisuta (あいすた) launches *Atarashii Kaze* (新しい風; New Wind). In June 1996, the name is changed to *Ayashii World* (あやしいわーるど; Strange World), but it is said to be very unpopular because whenever anything mildly risky is posted, it is swiftly deleted.
 
-Aisuta eventually resigns from his managerial role, and asks if anyone wants to use the board's name as they wish. There's a theory out there that says Shiba inherits the Ayashii World name this way, but the truth is completely unknown. Editor's note: there are no records of this available besides memories of hearsay.
+Aisuta eventually resigns from his managerial role, and asks if anyone wants to use the board's name as they wish. There's a theory out there that says Shiba inherits the Ayashii World name this way, but the truth is completely unknown. 
 
 > [!note]
-> Actually according to the timeline, Mr. Shiba already used the name in 1995, but I have no idea which is earlier.
+> Actually according to the timeline, Mr. Shiba already used the name in 1995, but I have no idea which is earlier. There are no records of this available besides memories of hearsay.
 
 **1996.04.29**
 
