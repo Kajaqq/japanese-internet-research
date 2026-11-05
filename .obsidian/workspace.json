@@ -11,10 +11,24 @@
             "id": "5c9f3e37d8c38c18",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/ありすの日記（番外編）.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ありすの日記（番外編）"
             }
           }
         ]
@@ -195,8 +209,13 @@
   },
   "active": "5c9f3e37d8c38c18",
   "lastOpenFiles": [
-    "01 Pre-Ayashii/The History of the Japanese Internet You Won't Find in Textbooks (English).md",
+    "Clippings/ありすの日記（その３）.md",
+    "Clippings/ありすの日記（番外編）.md",
+    "Clippings/ありすの日記（その２）.md",
+    "Clippings/ありすの日記（その１）.md",
     "02 Ayashii World/History of Ayashii World - Part 1.md",
+    "Clippings",
+    "01 Pre-Ayashii/The History of the Japanese Internet You Won't Find in Textbooks (English).md",
     "01 Pre-Ayashii/Wikipedia/NIFTY-Serve.md",
     "Untitled.canvas",
     "01 Pre-Ayashii/The Internet - Nicopedia.md",
@@ -212,7 +231,6 @@
     "03 2chan/Japanese (Translated)/Wikipedia/sed7cAVtP",
     "01 Pre-Ayashii/Wikipedia/NIFTY-Serve.md.tmp.20948.552da65934b9",
     "01 Pre-Ayashii/Wikipedia",
-    "Clippings",
     "01 Pre-Ayashii/Blog Posts/A History of Japanese Internet Culture and Incidents, As I Saw It (1969–2018).md",
     "01 Pre-Ayashii/Blog Posts/Internet Old-Timers' Club - My First JUNET.md",
     "01 Pre-Ayashii/Blog Posts/What Was the Akihabara Frenzy at the Windows 95 Launch Really About.md",
@@ -228,9 +246,6 @@
     "04 NicoNicoDouga/Other/Nico Nico Douga (motoso Scrapbox).md",
     "03 2chan/Japanese (Translated)/History of 2channel (Monapedia).md",
     "03 2chan/English/2ch Chronicles/2ch History Timeline.md",
-    "03 2chan/Japanese (Translated)/Nicopedia/History of 2channel.md",
-    "03 2chan/Japanese (Translated)/Nicopedia/Hiroyuki Nishimura.md",
-    "03 2chan/Japanese (Translated)/Nicopedia/nanJ Board.md",
     "03 2chan/Chan map.jpg"
   ]
 }
