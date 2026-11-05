@@ -31,6 +31,7 @@ Part of: [[!Home]] · Next in the lineage: [[2channel Hub|2channel]]
 	- [[History of Ayashii World - Part 2]]  — Timeline from 1999 to 2002
 	- [[History of Ayashii World - Part 3]]  — Timeline from 2002 to 2006 (Machine Translated)
 - [[The First Channel - Ayashii and Amezou]] — Yotsuba Society essay
+- [[Alice Liddell and Gesu]] — AI-generated profile of Alice and the Gesu' group, from the Alice's Diary clippings (verify)
 - [[4chan Pre-history]] / [[4chan Pre-history - bibanon]] — the Ayashii → 4chan lineage
 
 ### Japanese (translated)
