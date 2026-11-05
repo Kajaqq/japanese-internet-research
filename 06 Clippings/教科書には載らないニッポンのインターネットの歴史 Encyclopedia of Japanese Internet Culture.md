@@ -9,8 +9,6 @@ description: "インターネットの歴史をミクロに紹介。"
 tags:
   - "clippings"
 ---
-The Wayback Machine - https://web.archive.org/web/20021204222537/http://blogdex.tripod.co.jp:80/encyclopedia/
-
 ## 教科書には載らないニッポンのインターネットの歴史ヽ(´ー｀)人(´ー｀)ノ
 
 ## 大げさな前書き
