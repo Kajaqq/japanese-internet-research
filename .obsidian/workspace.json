@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "324f0d761856f5b3",
+        "id": "59d765292d348648",
         "type": "tabs",
         "children": [
           {
-            "id": "e14925f59d086222",
+            "id": "5c9f3e37d8c38c18",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Pre-Ayashii/The History of the Japanese Internet You Won't Find in Textbooks (English).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "The History of the Japanese Internet You Won't Find in Textbooks (English)"
+              "title": "New tab"
             }
           }
         ]
@@ -207,13 +193,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "779794644b2cb78d",
+  "active": "5c9f3e37d8c38c18",
   "lastOpenFiles": [
+    "01 Pre-Ayashii/The History of the Japanese Internet You Won't Find in Textbooks (English).md",
     "02 Ayashii World/History of Ayashii World - Part 1.md",
     "01 Pre-Ayashii/Wikipedia/NIFTY-Serve.md",
     "Untitled.canvas",
     "01 Pre-Ayashii/The Internet - Nicopedia.md",
-    "01 Pre-Ayashii/The History of the Japanese Internet You Won't Find in Textbooks (English).md",
     "Clippings/YT3kfLKZ",
     "Clippings/MecjwOlv",
     "00 Hubs/Futaba Channel Hub.md",

@@ -637,7 +637,7 @@ On "Nikki Saru-jin":
 
 **Ayashii World** (あやしいわーるど, "Weird World"), run by Shiba, moves "from a Nifty patio" to Digital Eden's free message-board service.
 
-> Early in '96, Shiba got set up on the net and went hunting for free message-board services. According to the oldest records, it was a board service called Digital Eden, and it was here that Shiba opened Ayashii World, the net's first lunatic chūbō board.
+> Early in '96, Shiba got set up on the net and went hunting for free message-board services. According to the oldest records, it was a board service called Digital Eden, and it was here that Shiba opened Ayashii World, the net's first lunatic chūbō board. (ちゅうぼう - troll)
 
 **09/01**
 
