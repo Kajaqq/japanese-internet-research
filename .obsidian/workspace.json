@@ -192,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,9 +209,11 @@
   },
   "active": "95a1142d69b9d9ce",
   "lastOpenFiles": [
-    "06 Clippings/教科書には載らないニッポンのインターネットの歴史 Encyclopedia of Japanese Internet Culture.md",
+    "Clippings/ありすの日記（その 4）.md",
+    "Clippings/ありすの日記（その１）.md",
+    "Clippings/ありすの日記（その３）.md",
     "02 Ayashii World/Alice Liddell and Gesu.md",
-    "Clippings/ありすの日記（番外編）.md",
+    "06 Clippings/教科書には載らないニッポンのインターネットの歴史 Encyclopedia of Japanese Internet Culture.md",
     "02 Ayashii World/Alice Liddell and Gesu.md.tmp.16340.22d562af3ff5",
     "02 Ayashii World/Alice Liddell and Gesu.md.tmp.16340.f45530bc9a95",
     "02 Ayashii World/Alice Liddell and Gesu.md.tmp.16340.70fca0307ca6",
@@ -221,9 +224,7 @@
     "02 Ayashii World/Alice Liddell and Gesu.md.tmp.16340.5ca20b9542cd",
     "00 Hubs/Ayashii World Hub.md.tmp.16340.9f3bfb25331d",
     "02 Ayashii World/Alice Liddell and Gesu.md.tmp.16340.0a2e733e5f8c",
-    "Clippings/ありすの日記（その３）.md",
     "Clippings/ありすの日記（その２）.md",
-    "Clippings/ありすの日記（その１）.md",
     "02 Ayashii World/History of Ayashii World - Part 1.md",
     "01 Pre-Ayashii/The History of the Japanese Internet You Won't Find in Textbooks (English).md",
     "01 Pre-Ayashii/Wikipedia/NIFTY-Serve.md",
