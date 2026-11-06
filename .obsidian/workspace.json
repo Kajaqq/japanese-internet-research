@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Ayashii World/Alice Liddell and Gesu.md",
-                "mode": "source",
-                "source": false,
+                "file": "Clippings/ありすの日記（その 4 ）.md",
+                "mode": "preview",
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Alice Liddell and Gesu"
+              "title": "ありすの日記（その 4 ）"
             }
           }
         ]
@@ -207,11 +207,61 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95a1142d69b9d9ce",
+  "floating": {
+    "id": "c5a4ccb6f4a6da82",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d67ac61861ebe3ab",
+        "type": "window",
+        "children": [
+          {
+            "id": "090b3d4e50a37072",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "898a55393d37887d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Clippings/ありすの日記（その 4 ）.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "ありすの日記（その 4 ）"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 460,
+        "y": 116,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "898a55393d37887d",
   "lastOpenFiles": [
-    "Clippings/ありすの日記（その 4）.md",
-    "Clippings/ありすの日記（その１）.md",
     "Clippings/ありすの日記（その３）.md",
+    "Clippings/ありすの日記（その２）.md",
+    "Clippings/ありすの日記（その１）.md",
+    "Clippings/ありすの日記（その 4 ）.md",
     "02 Ayashii World/Alice Liddell and Gesu.md",
     "06 Clippings/教科書には載らないニッポンのインターネットの歴史 Encyclopedia of Japanese Internet Culture.md",
     "02 Ayashii World/Alice Liddell and Gesu.md.tmp.16340.22d562af3ff5",
@@ -224,7 +274,6 @@
     "02 Ayashii World/Alice Liddell and Gesu.md.tmp.16340.5ca20b9542cd",
     "00 Hubs/Ayashii World Hub.md.tmp.16340.9f3bfb25331d",
     "02 Ayashii World/Alice Liddell and Gesu.md.tmp.16340.0a2e733e5f8c",
-    "Clippings/ありすの日記（その２）.md",
     "02 Ayashii World/History of Ayashii World - Part 1.md",
     "01 Pre-Ayashii/The History of the Japanese Internet You Won't Find in Textbooks (English).md",
     "01 Pre-Ayashii/Wikipedia/NIFTY-Serve.md",

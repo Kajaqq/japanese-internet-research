@@ -39,7 +39,7 @@ How large Alice's role in Gesu' really was is disputed, and much of the confusio
 > [!note] Pronouns
 > Alice never states a pronoun in these posts. English sources write "Mr. Alice" or "he"; this article uses "they".
 
-**Citations:** D1–D3 are [[ありすの日記（その１）]], [[ありすの日記（その２）]] and [[ありすの日記（その３）]]; D4 is [[ありすの日記（その 4）]]. The number after the colon is the line in that clipping. "Encyclopedia" means [[The History of the Japanese Internet You Won't Find in Textbooks (English)]].
+**Citations:** D1–D3 are [[ありすの日記（その１）]], [[ありすの日記（その２）]] and [[ありすの日記（その３）]]; D4 is [[ありすの日記（その 4 ）]]. The number after the colon is the line in that clipping. "Encyclopedia" means [[The History of the Japanese Internet You Won't Find in Textbooks (English)]].
 
 ## Who Alice was
 
