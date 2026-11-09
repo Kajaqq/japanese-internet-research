@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8063b07873677ace",
+        "id": "8894abb9186c9922",
         "type": "tabs",
         "children": [
           {
-            "id": "54e6205d2ed1d372",
+            "id": "3ac769f3ede5c407",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -179,8 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 416.5,
-    "collapsed": true
+    "width": 416.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,12 +193,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54e6205d2ed1d372",
+  "active": "3ac769f3ede5c407",
   "lastOpenFiles": [
+    "03 2chan/English/2ch Chronicles/2ch History Timeline.md",
+    "03 2chan/English/bibanon stuff/4chan Pre-history - bibanon.md",
+    "03 2chan/English/Yotsuba Society/The Second Channel - 2chan.pdf",
+    "03 2chan/Japanese (Translated)/History of 2channel (Monapedia).md",
     "01 Pre-Ayashii/The History of the Japanese Internet You Won't Find in Textbooks (English).md",
     "03 2chan/Various Links.md",
     "02 Ayashii World/Yotsuba Society/The First Channel - Ayashii and Amezou.md",
-    "03 2chan/Japanese (Translated)/History of 2channel (Monapedia).md",
     "03 2chan/Japanese (Translated)/Nicopedia/History of 2channel.md",
     "03 2chan/Japanese (Translated)/Nicopedia/Hiroyuki Nishimura.md",
     "03 2chan/Japanese (Translated)/Nicopedia/Amezou.md",
@@ -220,8 +222,6 @@
     "00 Hubs/Futaba Channel Hub.md",
     "00 Hubs/Kasane Teto Hub.md",
     "00 Hubs/Niconico Hub.md",
-    "Clippings/ニフティサーブ.md",
-    "Wikipedia.md",
     "03 2chan/Chan map.jpg"
   ]
 }
