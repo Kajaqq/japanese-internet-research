@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "373e5514231cece6",
+        "id": "c3ac9f9c98c3d13a",
         "type": "tabs",
         "children": [
           {
-            "id": "b915436fc432bea9",
+            "id": "36243c5b7eadb147",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "02 Ayashii World/History of Ayashii World - Part 1.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "History of Ayashii World - Part 1"
             }
           }
         ]
@@ -159,6 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02 Ayashii World/History of Ayashii World - Part 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -182,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 416.5
+    "width": 416.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,17 +208,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b915436fc432bea9",
+  "active": "36243c5b7eadb147",
   "lastOpenFiles": [
     "01 Pre-Ayashii/The History of the Japanese Internet You Won't Find in Textbooks (English).md",
+    "01 Pre-Ayashii/Blog Posts/A History of Japanese Internet Culture and Incidents, As I Saw It (1969–2018).md",
     "02 Ayashii World/History of Ayashii World - Part 1.md",
+    "06 Clippings/教科書には載らないニッポンのインターネットの歴史 Encyclopedia of Japanese Internet Culture.md",
+    "Outline prezentacji.md",
+    "02 Ayashii World/History of Ayashii World - Part 3.md",
+    "02 Ayashii World/History of Ayashii World - Part 2.md",
     "copilot/copilot-conversations/agent__Was_ASCII_art_in_form_of_kaomoji_something_born_on@20261106_170716.md",
     "02 Ayashii World/Alice Liddell and Gesu.md",
     "Clippings/ありすの日記（その 4 ）.md",
     "Clippings/ありすの日記（その３）.md",
     "Clippings/ありすの日記（その２）.md",
     "Clippings/ありすの日記（その１）.md",
-    "06 Clippings/教科書には載らないニッポンのインターネットの歴史 Encyclopedia of Japanese Internet Culture.md",
     "01 Pre-Ayashii/Wikipedia/NIFTY-Serve.md",
     "01 Pre-Ayashii/The Internet - Nicopedia.md",
     "00 Hubs/Futaba Channel Hub.md",
@@ -214,10 +230,8 @@
     "00 Hubs/Niconico Hub.md",
     "Clippings/ニフティサーブ.md",
     "Wikipedia.md",
-    "01 Pre-Ayashii/Blog Posts/A History of Japanese Internet Culture and Incidents, As I Saw It (1969–2018).md",
     "01 Pre-Ayashii/Blog Posts/Internet Old-Timers' Club - My First JUNET.md",
     "01 Pre-Ayashii/Blog Posts/What Was the Akihabara Frenzy at the Windows 95 Launch Really About.md",
-    "Outline prezentacji.md",
     "04 NicoNicoDouga/News Articles/Hiroyuki Becomes 'Director-Administrator' of Dwango's New Company.md",
     "04 NicoNicoDouga/News Articles/Kawakami Nobuo Looks Back on Ten Years of Nico Nico Douga.md",
     "03 2chan/Chan map.jpg"
