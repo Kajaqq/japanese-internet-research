@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c3ac9f9c98c3d13a",
+        "id": "8063b07873677ace",
         "type": "tabs",
         "children": [
           {
-            "id": "36243c5b7eadb147",
+            "id": "54e6205d2ed1d372",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Ayashii World/History of Ayashii World - Part 1.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "History of Ayashii World - Part 1"
+              "title": "New tab"
             }
           }
         ]
@@ -208,17 +194,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "36243c5b7eadb147",
+  "active": "54e6205d2ed1d372",
   "lastOpenFiles": [
     "01 Pre-Ayashii/The History of the Japanese Internet You Won't Find in Textbooks (English).md",
-    "01 Pre-Ayashii/Blog Posts/A History of Japanese Internet Culture and Incidents, As I Saw It (1969–2018).md",
+    "03 2chan/Various Links.md",
+    "02 Ayashii World/Yotsuba Society/The First Channel - Ayashii and Amezou.md",
+    "03 2chan/Japanese (Translated)/History of 2channel (Monapedia).md",
+    "03 2chan/Japanese (Translated)/Nicopedia/History of 2channel.md",
+    "03 2chan/Japanese (Translated)/Nicopedia/Hiroyuki Nishimura.md",
+    "03 2chan/Japanese (Translated)/Nicopedia/Amezou.md",
+    "02 Ayashii World/Alice Liddell and Gesu.md",
     "02 Ayashii World/History of Ayashii World - Part 1.md",
+    "01 Pre-Ayashii/Blog Posts/A History of Japanese Internet Culture and Incidents, As I Saw It (1969–2018).md",
     "06 Clippings/教科書には載らないニッポンのインターネットの歴史 Encyclopedia of Japanese Internet Culture.md",
     "Outline prezentacji.md",
     "02 Ayashii World/History of Ayashii World - Part 3.md",
     "02 Ayashii World/History of Ayashii World - Part 2.md",
     "copilot/copilot-conversations/agent__Was_ASCII_art_in_form_of_kaomoji_something_born_on@20261106_170716.md",
-    "02 Ayashii World/Alice Liddell and Gesu.md",
     "Clippings/ありすの日記（その 4 ）.md",
     "Clippings/ありすの日記（その３）.md",
     "Clippings/ありすの日記（その２）.md",
@@ -230,10 +222,6 @@
     "00 Hubs/Niconico Hub.md",
     "Clippings/ニフティサーブ.md",
     "Wikipedia.md",
-    "01 Pre-Ayashii/Blog Posts/Internet Old-Timers' Club - My First JUNET.md",
-    "01 Pre-Ayashii/Blog Posts/What Was the Akihabara Frenzy at the Windows 95 Launch Really About.md",
-    "04 NicoNicoDouga/News Articles/Hiroyuki Becomes 'Director-Administrator' of Dwango's New Company.md",
-    "04 NicoNicoDouga/News Articles/Kawakami Nobuo Looks Back on Ten Years of Nico Nico Douga.md",
     "03 2chan/Chan map.jpg"
   ]
 }
