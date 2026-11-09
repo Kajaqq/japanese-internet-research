@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6ed29091880a9dac",
+        "id": "98e1928c19750356",
         "type": "tabs",
         "children": [
           {
-            "id": "19d5ca91fafa66fe",
+            "id": "d058d74b9f77a182",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -192,23 +192,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ddce44e45d2ae85",
-  "lastOpenFiles": [
-    "copilot/skills/copilot-fetch-x/SKILL.md",
-    "copilot/skills/copilot-fetch-x/fetch-x.ps1",
-    "copilot/skills/copilot-fetch-x/fetch-x.cmd",
-    "copilot/skills/copilot-fetch-x/fetch-x.sh",
-    "copilot/skills/copilot-fetch-x",
-    "copilot/skills/copilot-youtube-transcript/SKILL.md",
-    "copilot/skills/copilot-youtube-transcript/youtube-transcript.ps1",
-    "copilot/skills/copilot-youtube-transcript/youtube-transcript.cmd",
-    "copilot/skills/copilot-youtube-transcript/youtube-transcript.sh",
-    "copilot/skills/copilot-youtube-transcript",
-    "copilot/skills",
-    "copilot",
-    "2026-11-06.md",
-    "Untitled.canvas",
-    "01 Pre-Ayashii/The History of the Japanese Internet You Won't Find in Textbooks (English).md",
+  "active": "d058d74b9f77a182",
+  "lastOpenFiles": [    
+  "01 Pre-Ayashii/The History of the Japanese Internet You Won't Find in Textbooks (English).md",
     "02 Ayashii World/History of Ayashii World - Part 1.md",
     "copilot/copilot-conversations/agent__Was_ASCII_art_in_form_of_kaomoji_something_born_on@20261106_170716.md",
     "02 Ayashii World/Alice Liddell and Gesu.md",
