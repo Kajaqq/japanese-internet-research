@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "858de6e6f1279118",
+        "id": "6ed29091880a9dac",
         "type": "tabs",
         "children": [
           {
-            "id": "95a1142d69b9d9ce",
+            "id": "19d5ca91fafa66fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/ありすの日記（その 4 ）.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ありすの日記（その 4 ）"
+              "title": "New tab"
             }
           }
         ]
@@ -192,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 416.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,77 +192,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "c5a4ccb6f4a6da82",
-    "type": "floating",
-    "children": [
-      {
-        "id": "d67ac61861ebe3ab",
-        "type": "window",
-        "children": [
-          {
-            "id": "090b3d4e50a37072",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "898a55393d37887d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Clippings/ありすの日記（その 4 ）.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "ありすの日記（その 4 ）"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 460,
-        "y": 116,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "898a55393d37887d",
+  "active": "1ddce44e45d2ae85",
   "lastOpenFiles": [
+    "copilot/skills/copilot-fetch-x/SKILL.md",
+    "copilot/skills/copilot-fetch-x/fetch-x.ps1",
+    "copilot/skills/copilot-fetch-x/fetch-x.cmd",
+    "copilot/skills/copilot-fetch-x/fetch-x.sh",
+    "copilot/skills/copilot-fetch-x",
+    "copilot/skills/copilot-youtube-transcript/SKILL.md",
+    "copilot/skills/copilot-youtube-transcript/youtube-transcript.ps1",
+    "copilot/skills/copilot-youtube-transcript/youtube-transcript.cmd",
+    "copilot/skills/copilot-youtube-transcript/youtube-transcript.sh",
+    "copilot/skills/copilot-youtube-transcript",
+    "copilot/skills",
+    "copilot",
+    "2026-11-06.md",
+    "Untitled.canvas",
+    "01 Pre-Ayashii/The History of the Japanese Internet You Won't Find in Textbooks (English).md",
+    "02 Ayashii World/History of Ayashii World - Part 1.md",
+    "copilot/copilot-conversations/agent__Was_ASCII_art_in_form_of_kaomoji_something_born_on@20261106_170716.md",
+    "02 Ayashii World/Alice Liddell and Gesu.md",
+    "Clippings/ありすの日記（その 4 ）.md",
     "Clippings/ありすの日記（その３）.md",
     "Clippings/ありすの日記（その２）.md",
     "Clippings/ありすの日記（その１）.md",
-    "Clippings/ありすの日記（その 4 ）.md",
-    "02 Ayashii World/Alice Liddell and Gesu.md",
     "06 Clippings/教科書には載らないニッポンのインターネットの歴史 Encyclopedia of Japanese Internet Culture.md",
-    "02 Ayashii World/Alice Liddell and Gesu.md.tmp.16340.22d562af3ff5",
-    "02 Ayashii World/Alice Liddell and Gesu.md.tmp.16340.f45530bc9a95",
-    "02 Ayashii World/Alice Liddell and Gesu.md.tmp.16340.70fca0307ca6",
-    "02 Ayashii World/Alice Liddell and Gesu.md.tmp.16340.725d929b4ab3",
-    "02 Ayashii World/Alice Liddell and Gesu.md.tmp.16340.c0b7113255a8",
-    "02 Ayashii World/Alice Liddell and Gesu.md.tmp.16340.7a72122cef39",
-    "02 Ayashii World/Alice Liddell and Gesu.md.tmp.16340.d66134c37b18",
-    "02 Ayashii World/Alice Liddell and Gesu.md.tmp.16340.5ca20b9542cd",
-    "00 Hubs/Ayashii World Hub.md.tmp.16340.9f3bfb25331d",
-    "02 Ayashii World/Alice Liddell and Gesu.md.tmp.16340.0a2e733e5f8c",
-    "02 Ayashii World/History of Ayashii World - Part 1.md",
-    "01 Pre-Ayashii/The History of the Japanese Internet You Won't Find in Textbooks (English).md",
     "01 Pre-Ayashii/Wikipedia/NIFTY-Serve.md",
-    "Untitled.canvas",
     "01 Pre-Ayashii/The Internet - Nicopedia.md",
     "00 Hubs/Futaba Channel Hub.md",
     "00 Hubs/Kasane Teto Hub.md",
@@ -290,10 +230,6 @@
     "Outline prezentacji.md",
     "04 NicoNicoDouga/News Articles/Hiroyuki Becomes 'Director-Administrator' of Dwango's New Company.md",
     "04 NicoNicoDouga/News Articles/Kawakami Nobuo Looks Back on Ten Years of Nico Nico Douga.md",
-    "04 NicoNicoDouga/News Articles/Niwango Strangely Left Out of the 'Miku Miku ni Shite Ageru' JASRAC Registration Affair.md",
-    "04 NicoNicoDouga/News Articles/What Is Dwango Starting with Hiroyuki.md",
-    "03 2chan/Japanese (Translated)/Other/Nico Nico Douga and 2channel (Part 1-1) - The Roots of Nico Users in the (Kari) Era.md",
-    "04 NicoNicoDouga/Other/Nico Nico Douga (motoso Scrapbox).md",
     "03 2chan/Chan map.jpg"
   ]
 }
