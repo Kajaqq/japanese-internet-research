@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "98e1928c19750356",
+        "id": "373e5514231cece6",
         "type": "tabs",
         "children": [
           {
-            "id": "d058d74b9f77a182",
+            "id": "b915436fc432bea9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -192,9 +196,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d058d74b9f77a182",
-  "lastOpenFiles": [    
-  "01 Pre-Ayashii/The History of the Japanese Internet You Won't Find in Textbooks (English).md",
+  "active": "b915436fc432bea9",
+  "lastOpenFiles": [
+    "01 Pre-Ayashii/The History of the Japanese Internet You Won't Find in Textbooks (English).md",
     "02 Ayashii World/History of Ayashii World - Part 1.md",
     "copilot/copilot-conversations/agent__Was_ASCII_art_in_form_of_kaomoji_something_born_on@20261106_170716.md",
     "02 Ayashii World/Alice Liddell and Gesu.md",
