@@ -11,10 +11,24 @@
             "id": "3ac769f3ede5c407",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "04 2chan/Japanese (Translated)/Nicopedia/Hiroyuki Nishimura.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Hiroyuki Nishimura"
             }
           }
         ]
@@ -79,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 344.5,
+    "collapsed": true
   },
   "right": {
     "id": "1facddd73c1ee948",
@@ -179,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 416.5
+    "width": 416.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,20 +211,23 @@
   },
   "active": "3ac769f3ede5c407",
   "lastOpenFiles": [
-    "03 2chan/English/2ch Chronicles/2ch History Timeline.md",
-    "03 2chan/English/bibanon stuff/4chan Pre-history - bibanon.md",
-    "03 2chan/English/Yotsuba Society/The Second Channel - 2chan.pdf",
-    "03 2chan/Japanese (Translated)/History of 2channel (Monapedia).md",
+    "03 Amezou/Japanese(Translated)/Nicopedia",
+    "03 Amezou/Japanese(Translated)",
+    "03 Amezou",
+    "04 2chan/English/2ch Chronicles/2ch History Timeline.md",
+    "04 2chan/English/bibanon stuff/4chan Pre-history - bibanon.md",
+    "04 2chan/English/Yotsuba Society/The Second Channel - 2chan.pdf",
+    "04 2chan/Japanese (Translated)/History of 2channel (Monapedia).md",
     "01 Pre-Ayashii/The History of the Japanese Internet You Won't Find in Textbooks (English).md",
-    "03 2chan/Various Links.md",
+    "04 2chan/Various Links.md",
     "02 Ayashii World/Yotsuba Society/The First Channel - Ayashii and Amezou.md",
-    "03 2chan/Japanese (Translated)/Nicopedia/History of 2channel.md",
-    "03 2chan/Japanese (Translated)/Nicopedia/Hiroyuki Nishimura.md",
-    "03 2chan/Japanese (Translated)/Nicopedia/Amezou.md",
+    "04 2chan/Japanese (Translated)/Nicopedia/History of 2channel.md",
+    "04 2chan/Japanese (Translated)/Nicopedia/Hiroyuki Nishimura.md",
+    "03 Amezou/Japanese(Translated)/Nicopedia/Amezou.md",
     "02 Ayashii World/Alice Liddell and Gesu.md",
     "02 Ayashii World/History of Ayashii World - Part 1.md",
     "01 Pre-Ayashii/Blog Posts/A History of Japanese Internet Culture and Incidents, As I Saw It (1969–2018).md",
-    "06 Clippings/教科書には載らないニッポンのインターネットの歴史 Encyclopedia of Japanese Internet Culture.md",
+    "07 Clippings/教科書には載らないニッポンのインターネットの歴史 Encyclopedia of Japanese Internet Culture.md",
     "Outline prezentacji.md",
     "02 Ayashii World/History of Ayashii World - Part 3.md",
     "02 Ayashii World/History of Ayashii World - Part 2.md",
@@ -221,7 +240,6 @@
     "01 Pre-Ayashii/The Internet - Nicopedia.md",
     "00 Hubs/Futaba Channel Hub.md",
     "00 Hubs/Kasane Teto Hub.md",
-    "00 Hubs/Niconico Hub.md",
-    "03 2chan/Chan map.jpg"
+    "04 2chan/Chan map.jpg"
   ]
 }
