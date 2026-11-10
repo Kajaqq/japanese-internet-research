@@ -54,17 +54,18 @@
 
 ### 3.1. Hiroyuki Nishimura
 
-1. *[Punkt do uzupełnienia]*
-2. *[Punkt do uzupełnienia]*
-3. *[Punkt do uzupełnienia]*
-4. *[Punkt do uzupełnienia]*
-5. *[Punkt do uzupełnienia]*
+1. Krótki opis(urodzony w Kangawie, wychowany w Tokyo)
+2. 'Król miażdzenia faktami i logiką'
+3. Hirox's room -> Tokyo Access -> 2chan
 
 ### 3.2. 2chan (2channel) – Ewolucja Amezou
 
 1. Kultura 2chana i struktura boardów
 2. Czynniki, które postawiły 2chana na pozycji dominującej
-   1. Hostowany poza japonią w USA
+   - Afera Toshiby
+   - Hostowany poza japonią w USA
+   - Porwanie autobusu Nishitetsu
+   - GOTOWE DO TEGO MOMENTU
 3. News Boardy + VIP
 4. Specyfika 2chana:
    - Strony zgarniające/kradnące kontent (*matome sites*)
