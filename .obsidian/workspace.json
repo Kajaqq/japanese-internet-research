@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 2chan/LLM Generated/Breaking News Boards History.md",
-                "mode": "source",
+                "file": "04 2chan/Japanese (Translated)/History of 2channel (Monapedia).md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Breaking News Boards History"
+              "title": "History of 2channel (Monapedia)"
             }
           }
         ]
@@ -210,9 +210,13 @@
   },
   "active": "4c44dd0b04293c55",
   "lastOpenFiles": [
+    "00 Hubs/2channel Hub.md.tmp.35412.193366bbfea7",
+    "04 2chan/LLM Generated/August Crisis 2001 - Archived Threads.md",
+    "04 2chan/Japanese (Translated)/Is the closure of 2channel a joke - JP Article.md",
     "04 2chan/LLM Generated/2Ch_Closure.md",
-    "04 2chan/LLM Generated/Breaking News Boards History.md",
     "04 2chan/2ch History - Source Comparison.md",
+    "04 2chan/Japanese (Translated)/Wikipedia/News Flash Board.md",
+    "04 2chan/LLM Generated/Breaking News Boards History.md",
     "01 Pre-Ayashii/Wikipedia/NIFTY-Serve.md",
     "00 Hubs/2channel Hub.md.tmp.35412.ad383a976ad5",
     "04 2chan/LLM Generated/Breaking News Boards History.md.tmp.35412.07392e5d6da3",
@@ -240,10 +244,6 @@
     "07 Clippings/教科書には載らないニッポンのインターネットの歴史 Encyclopedia of Japanese Internet Culture.md",
     "Outline prezentacji.md",
     "02 Ayashii World/History of Ayashii World - Part 3.md",
-    "02 Ayashii World/History of Ayashii World - Part 2.md",
-    "copilot/copilot-conversations/agent__Was_ASCII_art_in_form_of_kaomoji_something_born_on@20261106_170716.md",
-    "Clippings/ありすの日記（その 4 ）.md",
-    "Clippings/ありすの日記（その３）.md",
     "04 2chan/Chan map.jpg"
   ]
 }
