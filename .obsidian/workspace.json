@@ -11,10 +11,24 @@
             "id": "4c44dd0b04293c55",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "04 2chan/LLM Generated/Breaking News Boards History.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Breaking News Boards History"
             }
           }
         ]
@@ -196,6 +210,12 @@
   },
   "active": "4c44dd0b04293c55",
   "lastOpenFiles": [
+    "04 2chan/LLM Generated/2Ch_Closure.md",
+    "04 2chan/LLM Generated/Breaking News Boards History.md",
+    "04 2chan/2ch History - Source Comparison.md",
+    "01 Pre-Ayashii/Wikipedia/NIFTY-Serve.md",
+    "00 Hubs/2channel Hub.md.tmp.35412.ad383a976ad5",
+    "04 2chan/LLM Generated/Breaking News Boards History.md.tmp.35412.07392e5d6da3",
     "2026-11-16.md",
     "Untitled.canvas",
     "05 NicoNicoDouga/News Articles/Niwango Strangely Left Out of the 'Miku Miku ni Shite Ageru' JASRAC Registration Affair.md",
@@ -224,9 +244,6 @@
     "copilot/copilot-conversations/agent__Was_ASCII_art_in_form_of_kaomoji_something_born_on@20261106_170716.md",
     "Clippings/ありすの日記（その 4 ）.md",
     "Clippings/ありすの日記（その３）.md",
-    "Clippings/ありすの日記（その２）.md",
-    "Clippings/ありすの日記（その１）.md",
-    "01 Pre-Ayashii/Wikipedia/NIFTY-Serve.md",
     "04 2chan/Chan map.jpg"
   ]
 }

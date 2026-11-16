@@ -38,6 +38,7 @@ Part of: [[!Home]] · Before: [[Ayashii World Hub|Ayashii World]] · Spin-offs: 
 - [[News Flash Board (Nicopedia)]] — News Flash board (EN translation)
 - [[News Flash Board VIP]] — VIP board, birthplace of Teto (EN translation)
 - [[News Flash Board|News Flash Board]] — News boards (Japanese Wikipedia)
+- [[Breaking News Boards History]] — History of ν速 / VIP / 嫌儲 boards, 1998–2026 (AI summary, PL)
 - [[nanJ Board|nanJ Board]] — なんでも実況J (Nicopedia, EN translation)
 
 ## Sources
